@@ -1,0 +1,5 @@
+--extra-index-url https://dsl.melexis.com/artifactory/api/pypi/pypi-release/simple
+
+# melexis
+pyldfparser>=2.0.0
+mako==1.2.4
